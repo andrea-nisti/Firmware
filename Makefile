@@ -223,6 +223,9 @@ check: 	check_px4fmu-v1_default \
 	check_px4fmu-v4_default_and_uavcan \
 	check_mindpx-v2_default \
 	check_posix_sitl_default \
+	check_px4fmu-v2_lpe \
+	check_px4fmu-v3_default \
+	check_px4fmu-v4_default \
 	check_tap-v1_default \
 	check_aerofc-v1_default \
 	check_px4-stm32f4discovery_default \
